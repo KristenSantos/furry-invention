@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>HTML and CSS Project Days</title>
+<link rel="stylesheet" type="text/css" href="HTML and CSS Project Days CSS">
+    </head>
+    <body>
+        <div class="seachbar"> 
+<a id="fresh">Freshest</a>
+<a>Home</a>
+<a>Menu</a>
+<a>Contact</a>
+        </div>
+        <div>
+            <h1>Freshest</h1>
+        </div>
+        <div>
+            <h2>Clean, Healthy, Always Fresh Foods</h2>
+        </div>
+        </div>
+
+
+
+
+    </body>
+
+
+
+
+
+
+</html>

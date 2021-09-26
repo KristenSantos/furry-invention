@@ -1,0 +1,150 @@
+body{
+    margin: 0px;
+}
+ 
+ h1 {
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    font-size: 70px;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-weight: bold;
+     margin-bottom: 1px;
+ }
+
+ h2{
+font-size: 40px;
+font-weight: lighter;
+ }
+ p {
+font-weight: lighter;
+font-family: 'Yaldevi', sans-serif;
+ }
+
+ #freshest {
+    color: white;
+    display: flex;
+    font-size: 18px;
+    padding-left: 100px;
+    height: 2px;
+    padding-top: 20px;
+ }
+
+#healthy {
+    text-align: center;
+    color: white;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+#nav {
+    margin: 25px 40px 0 25px;
+    display: flex;
+    justify-content: right;
+    color: white;
+    font-size: 18px;
+    padding-right: 60px;
+    margin-top: 0px;
+}
+#nav a {
+    padding-left: 10px;
+}
+
+
+#lineone {
+    margin: 15px 100px ;
+    border-top: 1px solid white;
+}
+
+#linetwo {
+    border-top: 1px solid white;
+    margin: 5px 550px;
+}
+
+
+
+.pt1 {
+    height: 750px;
+    background-image: url(photo/veggie.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+ .pt2 {
+     background-color: black;
+     color: white;
+     height: 400px;
+     max-width: 100%;
+     display: flex;
+ }
+ 
+ .image2 {
+    background-image: url(photo/hand.jpg);
+    height: 400px;
+    width: 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ 
+ .text2{
+    font-family: 'Heebo', sans-serif;
+    width: 60%;   
+    margin: 65px;
+    padding-left: 25px;
+    font-size: 18px; 
+    font-weight: lighter; 
+ }
+ 
+ .pt3{
+    background-color: black;
+    color: white;
+    height: 450px;
+    display: flex; 
+    font-size: 18px; 
+}
+
+.image3 {
+   background-image: url(photo/pine.jpg);
+   height: 450px;
+   width: 60%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.text3{
+    font-family: 'Heebo', sans-serif;
+   width: 60%;   
+   margin: 65px;
+   padding-left: 25px; 
+   font-size: 18px;
+}
+
+.pt4{
+    background-color: black;
+    
+    height: 400px;
+    display: flex;   
+}
+
+.image4 {
+   background-image: url(photo/pasta.jpg);
+   height: 400px;
+    width: 60%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.text4{
+    font-family: 'Heebo', sans-serif;
+    color: white;
+   width: 60%;   
+   margin: 65px;
+   padding-left: 25px; 
+   font-size: 18px;
+}
